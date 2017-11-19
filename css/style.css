@@ -1,0 +1,52 @@
+
+body {
+  font-family: 'Indie Flower', cursive;
+}
+
+header{
+  background: url('../img/flower.jpeg') no-repeat center center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 96vh;
+}
+
+.margin-title{
+  margin-top: 40vh;
+}
+
+.blue-html {
+  width: 25%;
+  background-color: blue;
+}
+
+.red-css {
+  width: 45%;
+  background-color: red;
+}
+
+.my-font {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+
+.margin-top {
+  margin-top: 50px;
+}
+
+.my-text-color {
+  color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.red{
+  background-color: red;
+}
+
+.navbar {
+  background: #e16879;
+}
